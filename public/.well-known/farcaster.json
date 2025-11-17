@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxMjM0NTY3ODkwYWJjZGVmIn0",
+    "payload": "eyJkb21haW4iOiJtYXJrZXRjYXBvZi12ZXJjZWwuYXBwIn0",
+    "signature": "MHhhYmNkZWYxMjM0NTY3ODkwYWJjZGVmMTIzNDU2Nzg5MGFiY2RlZjEyMzQ1Njc4OTBhYmNkZWY="
+  },
+  "frame": {
+    "version": "1",
+    "name": "MarketCapOf",
+    "iconUrl": "https://marketcapof-farcaster.vercel.app/icon.png",
+    "homeUrl": "https://marketcapof-farcaster.vercel.app",
+    "imageUrl": "https://marketcapof-farcaster.vercel.app/preview.png",
+    "splashImageUrl": "https://marketcapof-farcaster.vercel.app/splash.png",
+    "splashBackgroundColor": "#7c3aed"
+  }
+}
